@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d52dfd1-0423-4eba-9b6a-65ba576b8019" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/bot.time" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_jsoup_jsoup_1_12_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/City_course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Text_message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Valute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exception/groupNoInputInfoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exception/haveNoTextException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/patern/City.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/patern/coursePatern.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/patern/valutePatern.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/valute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CBTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Bot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/CB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/City_course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/bot.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Text_message$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Text_message$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Text_message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Valute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/exception/groupNoInputInfoException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/exception/haveNoTextException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/patern/City.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/patern/coursePatern.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/patern/valutePatern.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/valute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/BankTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/CBTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/MenuTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bot" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e37Z4T8ZTURg6zWfiokb8L0Uuf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/junit-4.13.jar!/" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sofiya\IdeaProjects\bot\src\main\resources\patern" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BankTest.CityTest">
+    <configuration name="Bot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bot" />
+      <module name="bot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bot" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.CityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bot" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankTest" />
+      <option name="METHOD_NAME" value="CityTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bot" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MenuTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuTest.IsCity2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bot" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MenuTest" />
+      <option name="METHOD_NAME" value="IsCity2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BankTest.CityTest" />
+        <item itemvalue="JUnit.BankTest" />
+        <item itemvalue="JUnit.MenuTest" />
+        <item itemvalue="JUnit.MenuTest.IsCity2" />
+        <item itemvalue="Application.Bot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d52dfd1-0423-4eba-9b6a-65ba576b8019" name="Default Changelist" comment="" />
+      <created>1593538474460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593538474460</updated>
+      <workItem from="1593538504161" duration="10047000" />
+      <workItem from="1593557958098" duration="3029000" />
+      <workItem from="1593601357179" duration="19087000" />
+      <workItem from="1593771219362" duration="2652000" />
+      <workItem from="1593773946548" duration="832000" />
+      <workItem from="1593774802953" duration="13276000" />
+      <workItem from="1593858642416" duration="6223000" />
+      <workItem from="1593880161830" duration="5643000" />
+      <workItem from="1593889810859" duration="4534000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="26" key="#Project_Structure" timestamp="1593546481979">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="26" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1593546481979" />
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593546843281">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1593546843281" />
+    <state x="122" y="458" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593883375967">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="122" y="458" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1593883375967" />
+    <state x="435" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593771469774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1593771469774" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1593539152776">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1593539152776" />
+    <state x="676" y="48" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1593774261833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="676" y="48" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1593774261833" />
+    <state x="576" y="119" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1593871198296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="576" y="119" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1366.728@0.0.1366.728" timestamp="1593871198296" />
+    <state width="1364" height="440" key="DebuggerActiveHint" timestamp="1593885010071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1364" height="440" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1593885010071" />
+    <state x="358" y="105" key="FileChooserDialogImpl" timestamp="1593870447086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="358" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593870447086" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1593947071443">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593947071443" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1593947071442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593947071442" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1593947071442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593947071442" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1593947071442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593947071442" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1593947071444">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593947071444" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1593947071444">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593947071444" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1593947071443">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593947071443" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1593947071444">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593947071444" />
+    <state x="263" y="99" key="IDE.errors.dialog" timestamp="1593538536435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="99" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1593538536435" />
+    <state x="426" y="19" key="Maven.ArtifactSearchDialog" timestamp="1593773978061">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="426" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1593773978061" />
+    <state x="239" y="0" key="SettingsEditor" timestamp="1593871199290">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="239" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593871199290" />
+    <state x="627" y="112" key="caller.chooser.dialog" timestamp="1593540154745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="627" y="112" key="caller.chooser.dialog/0.0.1366.728@0.0.1366.728" timestamp="1593540154745" />
+    <state x="356" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593871193557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="356" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1593871193557" />
+    <state x="413" y="144" key="extract.method.dialog" timestamp="1593619782541">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="144" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1593619782541" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1593619421681">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1593619421681" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593871302437">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1593871302437" />
+  </component>
+</project>
