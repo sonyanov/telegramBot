@@ -80,7 +80,7 @@ public class Text_message {
 
                 switch (word) {
                     case "/start":
-                        return "Привет, чем могу помочь?";
+                        return "Привет, чем могу помочь?\n" + "Для продолжения введите /help";
                     case "/help":
                         return "Получение информации о боте: /info.\n" +
                                 "Получение списка валют: /valute.\n" +
