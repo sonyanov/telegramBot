@@ -97,9 +97,9 @@ public class Text_message {
             }
         }
         else if(!message.isGroupMessage())
-            throw new haveNoTextException();
+            throw new HaveNoTextException();
         if(message.isGroupMessage())
-            throw new groupNoInputInfoException();
+            throw new GroupNoInputInfoException();
         return "Не хватает информации для вывода или сообщение введено не коррентно";
     }
     public static String getCity(String word){
