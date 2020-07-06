@@ -16,10 +16,13 @@ import java.util.logging.Logger;
 public class Bot extends TelegramLongPollingBot {
 
     private static final Logger logger = Logger.getLogger(Bot.class.getName());
+    private static String bot_token;
+    private static String username;
 
 
     public static void main(String[] args){
         try {
+            loadSettings();
             loadValutes();
             Text_message.load();
         } catch (IOException e) {
@@ -55,18 +58,18 @@ public class Bot extends TelegramLongPollingBot {
             } catch (IOException | ParseException e) {
                 logger.log(Level.WARNING,"Error loading", e);
             }
-            catch (haveNoTextException e) {
+            catch (HaveNoTextException e) {
                 sendMsg(message, "Напишите мне что-нибудь нормальное");
-            } catch (groupNoInputInfoException ignored) {}
+            } catch (GroupNoInputInfoException ignored) {}
         }
     }
 
     public String getBotUsername() {
-        return "Bank_manager_bot";
+        return username;
     }
 
     public String getBotToken() {
-        return "1190550127:AAEbKuD2vaEhw8-TnZijuh7Jhci4UnPAZwk";
+        return bot_token;
     }
 
     public static void loadValutes() throws IOException {
@@ -80,7 +83,12 @@ public class Bot extends TelegramLongPollingBot {
         }
         reader.close();
     }
+    public static void loadSettings() throws IOException {
+        BufferedReader reader = new BufferedReader(new FileReader(new File("./src/main/resources/Token.txt")));
+
+        String line = reader.readLine();
+        bot_token = line;
+        username = reader.readLine();
+        reader.close();
+    }
 }
-
-//TODO:  написать ридми, заполнить доки
-
